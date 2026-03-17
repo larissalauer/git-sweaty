@@ -2069,6 +2069,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17738726979",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 21,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17749811721",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3585,6 +3594,15 @@
           "distance": 10025.4,
           "elevation_gain": 23.2,
           "moving_time": 3041.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17749811721"
+          ],
+          "count": 1,
+          "distance": 3651.1,
+          "elevation_gain": 22.4,
+          "moving_time": 1349.0
         }
       },
       "StairStepper": {
@@ -4055,7 +4073,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T15:58:31.760519+00:00",
+  "generated_at": "2026-03-17T15:57:39.578382+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
