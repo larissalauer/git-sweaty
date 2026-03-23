@@ -3079,5 +3079,18 @@
     "start_date_local": "2026-03-21T17:03:48Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17822804765",
+    "moving_time": 5045.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-22T16:03:41Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
