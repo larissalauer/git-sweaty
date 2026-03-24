@@ -3092,5 +3092,18 @@
     "start_date_local": "2026-03-22T16:03:41Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 5354.8,
+    "elevation_gain": 45.2,
+    "id": "17835504221",
+    "moving_time": 2127.0,
+    "name": "#dusking",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-23T18:54:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
