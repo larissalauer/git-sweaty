@@ -2159,6 +2159,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/17848825092",
       "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 18,
+      "name": "Evening Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17860811402",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3862,6 +3871,15 @@
           "distance": 8211.8,
           "elevation_gain": 79.8,
           "moving_time": 3358.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17860811402"
+          ],
+          "count": 1,
+          "distance": 5178.5,
+          "elevation_gain": 75.4,
+          "moving_time": 2109.0
         }
       },
       "Walk": {
@@ -4235,7 +4253,7 @@
       }
     }
   },
-  "generated_at": "2026-03-25T16:02:05.386954+00:00",
+  "generated_at": "2026-03-26T16:05:15.808792+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
