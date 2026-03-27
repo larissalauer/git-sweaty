@@ -3131,5 +3131,31 @@
     "start_date_local": "2026-03-25T18:26:57Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 3649.8,
+    "elevation_gain": 27.4,
+    "id": "17872384685",
+    "moving_time": 2029.0,
+    "name": "Failed interval workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T18:05:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17873220165",
+    "moving_time": 3834.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-26T21:28:38Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
