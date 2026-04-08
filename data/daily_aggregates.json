@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:06:49.506988+00:00",
+  "generated_at": "2026-04-08T16:10:31.325789+00:00",
   "years": {
     "2025": {
       "Hike": {
@@ -1595,6 +1595,15 @@
           "distance": 6485.7,
           "elevation_gain": 46.4,
           "moving_time": 2030.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18021385543"
+          ],
+          "count": 1,
+          "distance": 5157.3,
+          "elevation_gain": 40.6,
+          "moving_time": 2066.0
         }
       },
       "StairStepper": {
@@ -2187,6 +2196,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4196.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18022069718"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3002.0
         }
       },
       "Yoga": {
@@ -2216,6 +2234,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2603.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18017413357"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1923.0
         }
       }
     }
