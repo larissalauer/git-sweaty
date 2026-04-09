@@ -3391,5 +3391,31 @@
     "start_date_local": "2026-04-07T20:26:20Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18035390594",
+    "moving_time": 1305.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-08T18:13:57Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 1188.7,
+    "elevation_gain": 0.0,
+    "id": "18036263542",
+    "moving_time": 1860.0,
+    "name": "Swim dot com guided workout",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-08T18:45:34Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
