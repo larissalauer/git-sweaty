@@ -3417,5 +3417,31 @@
     "start_date_local": "2026-04-08T18:45:34Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18049101979",
+    "moving_time": 2605.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-09T19:28:47Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 1438.6,
+    "elevation_gain": 0.0,
+    "id": "18049379798",
+    "moving_time": 676.0,
+    "name": "1 mile treadmill @10:30",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-09T20:14:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
