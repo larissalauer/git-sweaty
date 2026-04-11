@@ -3443,5 +3443,31 @@
     "start_date_local": "2026-04-09T20:14:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 3388.8,
+    "elevation_gain": 43.0,
+    "id": "18060290724",
+    "moving_time": 1361.0,
+    "name": "10k easy trail pt 1",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-10T18:17:35Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 6877.8,
+    "elevation_gain": 96.8,
+    "id": "18060566072",
+    "moving_time": 2798.0,
+    "name": "10k easy trail part 2",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-10T18:46:20Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
