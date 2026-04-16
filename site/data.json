@@ -2438,6 +2438,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18107646482",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18126423711",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4064,6 +4073,15 @@
           "distance": 1438.6,
           "elevation_gain": 0.0,
           "moving_time": 676.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18126423711"
+          ],
+          "count": 1,
+          "distance": 5035.7,
+          "elevation_gain": 45.0,
+          "moving_time": 1705.0
         }
       },
       "StairStepper": {
@@ -4771,7 +4789,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T16:01:07.747493+00:00",
+  "generated_at": "2026-04-16T16:17:09.863962+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
