@@ -2609,6 +2609,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18315124635",
       "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 18,
+      "name": "Short run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18406924275",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4289,6 +4298,15 @@
           "distance": 4853.0,
           "elevation_gain": 29.8,
           "moving_time": 1758.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18406924275"
+          ],
+          "count": 1,
+          "distance": 3270.7,
+          "elevation_gain": 23.2,
+          "moving_time": 1026.0
         }
       },
       "StairStepper": {
@@ -5113,7 +5131,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T16:24:07.663544+00:00",
+  "generated_at": "2026-05-07T16:43:52.945299+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
