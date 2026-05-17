@@ -2618,6 +2618,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18406924275",
       "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 19,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18537604525",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4671,6 +4680,15 @@
           "distance": 2132.5,
           "elevation_gain": 0.0,
           "moving_time": 1862.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18537604525"
+          ],
+          "count": 1,
+          "distance": 1125.7,
+          "elevation_gain": 90.6,
+          "moving_time": 929.0
         }
       },
       "WeightTraining": {
@@ -5131,7 +5149,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:50:19.467499+00:00",
+  "generated_at": "2026-05-17T15:52:25.232970+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
