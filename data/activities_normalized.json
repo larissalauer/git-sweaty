@@ -3794,5 +3794,18 @@
     "start_date_local": "2026-05-15T19:25:27Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 15241.5,
+    "elevation_gain": 202.8,
+    "id": "18547589037",
+    "moving_time": 5940.0,
+    "name": "b2b!! \ud83c\udf1e\ud83c\udf0a",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T09:19:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
