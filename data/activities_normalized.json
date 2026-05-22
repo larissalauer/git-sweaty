@@ -3846,5 +3846,31 @@
     "start_date_local": "2026-05-20T19:52:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18603183184",
+    "moving_time": 4500.0,
+    "name": "75 min Hot Yoga Vinyasa Flow",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-21T17:32:49Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18603183191",
+    "moving_time": 1132.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-21T17:01:25Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
