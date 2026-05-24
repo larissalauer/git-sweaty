@@ -2690,6 +2690,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18615683225",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 17,
+      "name": "self-guided vinyasa yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18628399460",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5271,11 +5280,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4500.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18628399460"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3422.0
         }
       }
     }
   },
-  "generated_at": "2026-05-23T15:56:50.149002+00:00",
+  "generated_at": "2026-05-24T15:56:22.122768+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
