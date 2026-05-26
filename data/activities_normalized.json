@@ -3898,5 +3898,31 @@
     "start_date_local": "2026-05-23T17:10:01Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18651646460",
+    "moving_time": 6438.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-24T15:51:01Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 10833.1,
+    "elevation_gain": 51.0,
+    "id": "18656662194",
+    "moving_time": 3880.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T21:17:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
