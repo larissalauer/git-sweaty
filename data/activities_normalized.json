@@ -3963,5 +3963,18 @@
     "start_date_local": "2026-05-28T21:57:03Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18709363633",
+    "moving_time": 2775.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-29T18:37:21Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
