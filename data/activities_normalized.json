@@ -3976,5 +3976,31 @@
     "start_date_local": "2026-05-29T18:37:21Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18735389592",
+    "moving_time": 3804.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-31T14:21:20Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18735598160",
+    "moving_time": 1846.0,
+    "name": "Afternoon Stair-Stepper",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-05-31T15:32:15Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]
