@@ -4047,11 +4047,24 @@
     "distance": 3188.2,
     "elevation_gain": 19.8,
     "id": "18764658766",
-    "moving_time": 2063.0,
-    "name": "Evening Run",
+    "moving_time": 2069.0,
+    "name": "Tried to run on overly sore legs again",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-02T19:19:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 11335.2,
+    "elevation_gain": 83.2,
+    "id": "18804804584",
+    "moving_time": 4231.0,
+    "name": "Night Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
-    "start_date_local": "2026-06-02T19:19:42Z",
+    "start_date_local": "2026-06-05T21:19:41Z",
     "type": "Run",
     "year": 2026
   }
