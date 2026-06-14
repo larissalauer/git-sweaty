@@ -4119,5 +4119,31 @@
     "start_date_local": "2026-06-09T21:05:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 4680.8,
+    "elevation_gain": 370.0,
+    "id": "18908364555",
+    "moving_time": 3494.0,
+    "name": "New city who dis",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-13T11:24:25Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 5104.7,
+    "elevation_gain": 56.4,
+    "id": "18911300176",
+    "moving_time": 1639.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T19:45:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
