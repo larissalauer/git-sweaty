@@ -4145,5 +4145,18 @@
     "start_date_local": "2026-06-13T19:45:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 10412.8,
+    "elevation_gain": 18.0,
+    "id": "18937624111",
+    "moving_time": 6201.0,
+    "name": "Afternoon Kayaking",
+    "raw_activity_type": "Kayaking",
+    "raw_type": "Kayaking",
+    "start_date_local": "2026-06-15T17:43:46Z",
+    "type": "Kayaking",
+    "year": 2026
   }
 ]
