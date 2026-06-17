@@ -4158,5 +4158,18 @@
     "start_date_local": "2026-06-15T17:43:46Z",
     "type": "Kayaking",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 1762.5,
+    "elevation_gain": 0.0,
+    "id": "18952302661",
+    "moving_time": 2726.0,
+    "name": "Open Water Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-16T18:24:10Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

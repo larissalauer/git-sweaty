@@ -2879,6 +2879,15 @@
       "type": "Kayaking",
       "url": "https://www.strava.com/activities/18937624111",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 18,
+      "name": "Open Water Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18952302661",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4817,6 +4826,15 @@
           "distance": 2606.0,
           "elevation_gain": 0.0,
           "moving_time": 3116.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18952302661"
+          ],
+          "count": 1,
+          "distance": 1762.5,
+          "elevation_gain": 0.0,
+          "moving_time": 2726.0
         }
       },
       "TrailRun": {
@@ -5655,7 +5673,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T18:52:40.492526+00:00",
+  "generated_at": "2026-06-17T17:46:27.036990+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
