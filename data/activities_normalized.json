@@ -4171,5 +4171,18 @@
     "start_date_local": "2026-06-16T18:24:10Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 12087.3,
+    "elevation_gain": 260.8,
+    "id": "18965984329",
+    "moving_time": 5725.0,
+    "name": "Trail run to a nice alpine puddle",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-17T16:47:38Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
