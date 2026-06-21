@@ -2915,6 +2915,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18997388004",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 14,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19002526560",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19004167320",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4687,6 +4705,15 @@
           "distance": 5104.7,
           "elevation_gain": 56.4,
           "moving_time": 1639.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "19004167320"
+          ],
+          "count": 1,
+          "distance": 8088.0,
+          "elevation_gain": 56.8,
+          "moving_time": 2811.0
         }
       },
       "StairStepper": {
@@ -5133,6 +5160,15 @@
           "distance": 6285.0,
           "elevation_gain": 216.2,
           "moving_time": 4970.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "19002526560"
+          ],
+          "count": 1,
+          "distance": 2223.5,
+          "elevation_gain": 16.2,
+          "moving_time": 1790.0
         }
       },
       "WeightTraining": {
@@ -5719,7 +5755,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T16:12:34.423144+00:00",
+  "generated_at": "2026-06-21T16:26:15.058698+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
