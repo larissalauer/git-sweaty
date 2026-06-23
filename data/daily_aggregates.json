@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T18:41:31.287626+00:00",
+  "generated_at": "2026-06-23T17:11:26.604798+00:00",
   "years": {
     "2025": {
       "Hike": {
@@ -1785,9 +1785,9 @@
             "19025607493"
           ],
           "count": 1,
-          "distance": 6004.3,
-          "elevation_gain": 37.6,
-          "moving_time": 2200.0
+          "distance": 5044.8,
+          "elevation_gain": 19.4,
+          "moving_time": 1679.0
         }
       },
       "StairStepper": {

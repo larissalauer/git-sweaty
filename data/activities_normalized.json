@@ -4239,10 +4239,10 @@
   },
   {
     "date": "2026-06-22",
-    "distance": 6004.3,
-    "elevation_gain": 37.6,
+    "distance": 5044.8,
+    "elevation_gain": 19.4,
     "id": "19025607493",
-    "moving_time": 2200.0,
+    "moving_time": 1679.0,
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
