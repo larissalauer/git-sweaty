@@ -4249,5 +4249,31 @@
     "start_date_local": "2026-06-22T10:47:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 3483.0,
+    "elevation_gain": 0.0,
+    "id": "19043279164",
+    "moving_time": 1234.0,
+    "name": "2mi tread",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T17:28:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19043279165",
+    "moving_time": 2755.0,
+    "name": "Chest/shoulders",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-23T16:42:10Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
