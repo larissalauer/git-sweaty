@@ -4288,5 +4288,18 @@
     "start_date_local": "2026-06-25T18:43:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 17802.1,
+    "elevation_gain": 151.8,
+    "id": "19101998429",
+    "moving_time": 6272.0,
+    "name": "Sunny GGP morning \ud83d\ude0e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T09:15:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

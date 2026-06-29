@@ -2969,6 +2969,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19068956225",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 9,
+      "name": "Sunny GGP morning \ud83d\ude0e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19101998429",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4777,6 +4786,15 @@
           "distance": 6499.6,
           "elevation_gain": 77.0,
           "moving_time": 1966.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19101998429"
+          ],
+          "count": 1,
+          "distance": 17802.1,
+          "elevation_gain": 151.8,
+          "moving_time": 6272.0
         }
       },
       "StairStepper": {
@@ -5827,7 +5845,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T16:03:27.919967+00:00",
+  "generated_at": "2026-06-29T17:28:52.674735+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
