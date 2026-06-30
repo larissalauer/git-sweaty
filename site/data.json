@@ -2978,6 +2978,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19101998429",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 18,
+      "name": "Leg day warm up",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/19117984723",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 19,
+      "name": "Leg day",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19118357986",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4369,6 +4387,17 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2363.0
+        }
+      },
+      "Rowing": {
+        "2026-06-29": {
+          "activity_ids": [
+            "19117984723"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 724.0
         }
       },
       "Run": {
@@ -5767,6 +5796,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2755.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19118357986"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4139.0
         }
       },
       "Yoga": {
@@ -5845,7 +5883,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T17:28:52.674735+00:00",
+  "generated_at": "2026-06-30T17:01:09.259752+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/170892075",
   "repo": "larissalauer/git-sweaty",
